@@ -1,0 +1,6 @@
+____
+Layour: slide
+title: "Welcome to our second slide!"
+-----
+This is Folmar's slide
+Use the middle arrow to go back
